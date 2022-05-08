@@ -1,3 +1,7 @@
-Любимые фильмы: По соображениям совести, Бэтмен (Нолана)
-Люблю зиму
-Сша
+{
+	"Films": "Batman","Superman",
+	"Serial": "Klinika",
+	"Food": "Steak",
+	"Weather": "Summer",
+	"Country": "USA"
+}
